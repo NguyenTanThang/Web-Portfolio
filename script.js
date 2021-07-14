@@ -185,7 +185,7 @@ const projectData = [
     tag: "belizehole"
   },
   {
-    imageURL: "./img/work-item-img-17.PNG",
+    imageURL: "./img/work-item-img-17.png",
     name: "Book Store",
     tools: "Node.js, React.js, Ant Design, MongoDB",
     demoURL: "https://bookstore-tanthang.netlify.app/",
