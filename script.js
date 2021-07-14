@@ -156,6 +156,7 @@ const projectData = [
     tag: "alizarin"
   },
   */
+ /*
   {
     imageURL: "./img/work-item-img-14.PNG",
     name: "Pollster",
@@ -164,6 +165,7 @@ const projectData = [
     codeURL: "https://github.com/NguyenTanThang/Node-JS-Pollster",
     tag: "belizehole"
   },
+  */
   /*
   {
     imageURL: "./img/work-item-img-cms.PNG",
@@ -182,6 +184,15 @@ const projectData = [
     codeURL: "https://github.com/NguyenTanThang/React-JS---Movie-Database-Season-Client",
     tag: "belizehole"
   },
+  {
+    imageURL: "./img/work-item-img-17.PNG",
+    name: "Book Store",
+    tools: "Node.js, React.js, Ant Design, MongoDB",
+    demoURL: "https://bookstore-tanthang.netlify.app/",
+    codeURL: "https://github.com/NguyenTanThang/React-JS-BookStore",
+    tag: "belizehole"
+  },
+  /*
   {
     imageURL: "./img/work-item-img-11.PNG",
     name: "Gaming Store",
@@ -214,6 +225,7 @@ const projectData = [
     codeURL: "https://github.com/NguyenTanThang/Dev-Challenge---Country-Quiz",
     tag: "belizehole"
   },
+  */
 ]
 
 const projectItemsContainer = document.querySelector(".project-section .row.justify-content-center");
